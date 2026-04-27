@@ -9,58 +9,10 @@
 
 ## About Me
 
-AI Quality Engineer focused on designing, evaluating, and improving reliable AI systems for production environments.
 
-Currently working with conversational AI for e-commerce, building validation strategies for LLM-powered systems with emphasis on:
+AI Quality Engineer currently working with conversational AI for e-commerce, focusing on LLM evaluation, automated testing, and reliability engineering for production AI systems.
 
-- LLM Evaluation & benchmarking  
-- Reliability engineering  
-- Automated testing for AI workflows  
-- Prompt validation & behavior consistency  
-- Guardrails & safety mechanisms  
-- Observability & monitoring  
-- API quality & integration testing  
-- Scalable quality processes for AI products  
-
-My work sits at the intersection of:
-
-**Software Engineering × AI Systems × Quality Engineering**
-
-with one clear goal:
-
-> **Turning probabilistic AI into reliable production systems.**
-
----
-
-## Core Expertise
-
-### AI Engineering
-- LLM evaluation pipelines  
-- Prompt engineering & prompt testing  
-- RAG validation  
-- Semantic consistency analysis  
-- Structured outputs  
-- Confidence scoring  
-- Fallback design  
-- Reliability patterns for GenAI systems  
-
-### AI Quality Engineering
-- Functional validation for AI products  
-- Behavioral testing  
-- Regression testing for LLM systems  
-- Drift detection  
-- Automated evaluation loops  
-- Human-in-the-loop validation  
-- Production quality gates  
-- Risk & trust engineering  
-
-### Software & Automation
-- End-to-end testing  
-- API testing  
-- CI/CD quality pipelines  
-- Test architecture  
-- Debugging & root cause analysis  
-- Metrics-driven validation  
+My work involves validating AI behavior, designing quality strategies, and building scalable testing workflows using Python, Pytest, JavaScript, Playwright, Cypress, Postman, and CI/CD pipelines.
 
 ---
 
