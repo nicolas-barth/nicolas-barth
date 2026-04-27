@@ -1,79 +1,114 @@
-# Opaa! Eu sou o **Nicolas Barth** 👋
-
-**QA Engineer** · **IA conversacional para e‑commerce** · **Cypress/JavaScript**
+**AI Quality Engineer** · **AI Engineer** · **LLM Evaluation** · **Reliability Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/-nicolas-barth/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/eunicolasbarth/)
 
 ---
 
-## 💡Sobre mim
+## About Me
 
-*QA Engineer na ManyConvert, atuando na validação de soluções de IA conversacional para e-commerce com foco em qualidade, escalabilidade e experiência do usuário.
+AI Quality Engineer focused on designing, evaluating, and improving reliable AI systems for production environments.
 
-*Sólida experiência em testes funcionais, exploratórios e de regressão, além de automação com Cypress + JavaScript, Postman e pipelines de CI/CD.
+Currently working with conversational AI for e-commerce, building validation strategies for LLM-powered systems with emphasis on:
 
-*Forte atuação na análise de métricas críticas de precisão, consistência semântica, cobertura e usabilidade para avaliação de LLMs e chatbots.
+- LLM Evaluation & benchmarking  
+- Reliability engineering  
+- Automated testing for AI workflows  
+- Prompt validation & behavior consistency  
+- Guardrails & safety mechanisms  
+- Observability & monitoring  
+- API quality & integration testing  
+- Scalable quality processes for AI products  
 
-*Desenvolvimento de Prompt Kits, bases de conhecimento e suítes de testes completas, garantindo produtos digitais mais confiáveis e eficientes.
+My work sits at the intersection of:
 
-*Experiência em metodologias ágeis (Scrum/Kanban), colaborando diretamente com times de produto, engenharia e ciência de dados.
+**Software Engineering × AI Systems × Quality Engineering**
 
-*Atualmente ampliando atuação com Python, voltado para automações avançadas, testes de APIs e integrações.
+with one clear goal:
+
+> **Turning probabilistic AI into reliable production systems.**
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## Core Expertise
 
-**Linguagens & Frameworks**
+### AI Engineering
+- LLM evaluation pipelines  
+- Prompt engineering & prompt testing  
+- RAG validation  
+- Semantic consistency analysis  
+- Structured outputs  
+- Confidence scoring  
+- Fallback design  
+- Reliability patterns for GenAI systems  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+### AI Quality Engineering
+- Functional validation for AI products  
+- Behavioral testing  
+- Regression testing for LLM systems  
+- Drift detection  
+- Automated evaluation loops  
+- Human-in-the-loop validation  
+- Production quality gates  
+- Risk & trust engineering  
 
-**QA & DevTools**
+### Software & Automation
+- End-to-end testing  
+- API testing  
+- CI/CD quality pipelines  
+- Test architecture  
+- Debugging & root cause analysis  
+- Metrics-driven validation  
 
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
+
+### AI / Evaluation
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?logo=openai&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-111111?logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
+
+### QA / Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira\&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux\&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+
+### Dev / Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque  
+## Current Focus
 
-### 🔹 Projetos Pessoais e Acadêmicos  
-* **Cypress Masterclass – Swag Labs** → Suite completa de testes E2E utilizando **Cypress**, estruturada com padrões Page Objects, uso de fixtures e integração em CI.  
-  [https://github.com/Nicolasbarth221/Cypress-Masterclass-SwagLabs](https://github.com/Nicolasbarth221/Cypress-Masterclass-SwagLabs)  
+Building expertise in:
 
-* **Advanced-Cypress** → Projeto avançado com foco em **boas práticas**, comandos customizados e simulação de cenários complexos via mocks.  
-  [https://github.com/Nicolasbarth221/Advanced-Cypress](https://github.com/Nicolasbarth221/Advanced-Cypress)  
-
-* **Simulador de Cypress** → Aplicação de estudo criada para **treinar testes E2E** de forma prática e iterativa.  
-  [https://github.com/Nicolasbarth221/Simulador-de-Cypress](https://github.com/Nicolasbarth221/Simulador-de-Cypress)  
-
-* **Projeto HOWIV** → Sistema acadêmico em **Flask + SQLite**, com CRUD, persistência de dados e testes automatizados.  
-  [https://github.com/Nicolasbarth221/Projeto-HOWIV](https://github.com/Nicolasbarth221/Projeto-HOWIV)  
-
-* **Meu-Portfolio** → Site pessoal desenvolvido em **HTML, CSS e JS**, apresentando projetos, contato e portfólio audiovisual.  
-  [https://github.com/Nicolasbarth221/Meu-Portfolio](https://github.com/Nicolasbarth221/Meu-Portfolio)  
-
-* **Nicolasbarth221 (Perfil)** → Repositório especial que contém o **README de apresentação** exibido no meu perfil do GitHub.  
-  [https://github.com/Nicolasbarth221/Nicolasbarth221](https://github.com/Nicolasbarth221/Nicolasbarth221)  
+→ AI Reliability Engineering  
+→ LLM Evaluation Systems  
+→ AI Safety & Guardrails  
+→ Production-grade AI Quality  
+→ Intelligent Automation  
+→ Scalable validation architectures  
 
 ---
 
-## 📫 Vamos conversar
+## Connect
 
-* ✉️ **E‑mail:** [nicolasbarthsouza84@gmail.com](mailto:nicolasbarthsouza84@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/nicolasbarth](https://www.linkedin.com/in/-nicolas-barth/)
+✉️ **Email:** nicolasbarthsouza84@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/-nicolas-barth/
 
 ---
+
+> **Engineering trust in AI systems.**
