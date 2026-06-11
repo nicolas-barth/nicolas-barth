@@ -1,17 +1,17 @@
 # Hi, I'm Nicolas Barth 👋
 
-### AI Quality Engineer | QA Engineer | Test Automation | LLM Evaluation | Software Quality
+### AI Quality Engineer | QA Engineer | Test Automation | LLM Evaluation | Reliability Engineering
 
-I specialize in Software Quality Assurance, AI Quality Engineering, LLM Evaluation, Test Automation, Conversational AI Validation, Reliability Engineering, and Quality Strategy for modern AI-driven products.
+I specialize in Software Quality Engineering and AI Quality Engineering, focusing on test automation, LLM evaluation, conversational AI validation, reliability testing, guardrails, observability, and production AI quality.
 
-Currently focused on building reliable, scalable, and production-ready AI systems through evaluation frameworks, automation, observability, guardrails, and quality engineering best practices.
+Currently working on quality engineering for AI-powered customer support systems, helping build reliable, scalable, and production-ready AI products through evaluation frameworks, automation, monitoring, and quality strategy.
 
 ---
 
 ## 🌎 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nicolasbarth">
+<a href="https://www.linkedin.com/in/nicolas-barth">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -23,6 +23,16 @@ Currently focused on building reliable, scalable, and production-ready AI system
 <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+QA Engineer and AI Quality Engineer with experience in software quality, test automation, API validation, conversational AI testing, and LLM evaluation.
+
+Currently focused on reliability engineering, AI assessment frameworks, guardrails, hallucination detection, context validation, and production AI quality.
+
+Passionate about building trustworthy AI systems that deliver predictable, scalable, and measurable outcomes.
 
 ---
 
@@ -46,6 +56,7 @@ Currently focused on building reliable, scalable, and production-ready AI system
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API%20Testing-FF5722?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/E2E%20Testing-1E88E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Test%20Automation-673AB7?style=for-the-badge"/>
@@ -58,20 +69,23 @@ Currently focused on building reliable, scalable, and production-ready AI system
 ## 🤖 AI Quality Engineering
 
 <p>
-<img src="https://img.shields.io/badge/AI%20Testing-3F51B5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLM%20Evaluation-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Testing-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Testing-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF7043?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG%20Validation-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Context%20Evaluation-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Knowledge%20Validation-5C6BC0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Consistency%20Testing-7E57C2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Hallucination%20Detection-E91E63?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Guardrails-795548?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reliability%20Engineering-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Observability-607D8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Conversational%20AI-00BCD4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Evaluation%20Frameworks-9C27B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Intent%20Classification-3949AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Evaluation-FF7043?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Safety-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Monitoring-546E7A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Observability-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reliability%20Engineering-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Evaluation%20Frameworks-9C27B0?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Production%20AI-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Conversational%20AI-00BCD4?style=for-the-badge"/>
 </p>
 
 ---
@@ -83,73 +97,63 @@ Currently focused on building reliable, scalable, and production-ready AI system
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge"/>
 </p>
 
 ---
 
-## ☁️ Cloud, DevOps & Platforms
+## 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+## ☁️ DevOps & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-## 🧠 AI & LLM Platforms
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Meta%20WhatsApp%20API-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-43A047?style=for-the-badge"/>
-</p>
-
----
-
-## 🎯 Areas of Expertise
+## 🎯 Core Expertise
 
 - AI Quality Engineering
-- Software Quality Assurance
-- Quality Engineering
+- Software Quality Engineering
 - LLM Evaluation
 - AI Reliability Engineering
 - Test Automation
 - End-to-End Testing
 - API Testing
 - Conversational AI Validation
-- Guardrails Engineering
 - AI Safety Validation
+- Guardrails Engineering
 - Hallucination Detection
-- Requirements Validation
-- Defect Analysis
-- Risk-Based Testing
-- Agile Testing
-- Test Design
-- Prompt Evaluation
+- Context Validation
+- Knowledge Base Validation
+- Consistency Testing
 - Production AI Assessment
 - Quality Strategy
+- Risk-Based Testing
+- Defect Analysis
+- Requirements Validation
+- Agile Testing
 
 ---
 
 ## 🏆 Certifications
 
 - ISTQB® Certified Tester Foundation Level (CTFL)
-- ISTQB® Certified Tester AI Testing (CT-AI) *(In Progress)*
-- ISTQB® Test Automation Engineer (CT-TAE) *(Planned)*
-- Cypress Test Automation
-- Cypress Simulator
 
 ---
 
@@ -166,17 +170,18 @@ UNIVALI
 ## 🚀 Current Focus
 
 - AI Quality Engineering
-- Production AI Reliability
 - LLM Evaluation Frameworks
-- AI Testing Methodologies
-- Guardrails & AI Safety
-- Playwright Automation
-- AI Observability
-- Conversational AI Systems
-- AI Quality Metrics
 - Reliability Engineering
+- Production AI Quality
+- AI Observability
+- Guardrails & AI Safety
+- Conversational AI Systems
+- Playwright Automation
+- AI Quality Metrics
+- Trustworthy AI
 
 ---
 
-> Building reliable AI systems is not about making AI answer.  
+> Building reliable AI systems is not about making AI answer.
+>
 > It is about making AI answer correctly, consistently, and predictably at scale.
