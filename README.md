@@ -1,191 +1,182 @@
-# Nicolas Barth Souza
+# Hi, I'm Nicolas Barth 👋
 
-## AI Quality Engineer | QA Engineer
+### AI Quality Engineer | QA Engineer | Test Automation | LLM Evaluation | Software Quality
 
-I am a Quality Engineer focused on software quality, AI reliability, test automation, and LLM evaluation.
+I specialize in Software Quality Assurance, AI Quality Engineering, LLM Evaluation, Test Automation, Conversational AI Validation, Reliability Engineering, and Quality Strategy for modern AI-driven products.
 
-Currently working as an AI Quality Engineer at ManyConvert, helping design, validate, test, and monitor AI-powered systems used in production environments.
-
-My work combines traditional Quality Engineering practices with modern AI Quality Engineering, including conversational AI, LLM evaluation, reliability testing, guardrails, prompt validation, and automated testing.
+Currently focused on building reliable, scalable, and production-ready AI systems through evaluation frameworks, automation, observability, guardrails, and quality engineering best practices.
 
 ---
 
-## About Me
-
-- AI Quality Engineer & QA Engineer
-- Specialized in AI Reliability and LLM Evaluation
-- Experienced with Test Automation, APIs, and End-to-End Testing
-- Building quality processes for AI-powered products
-- Postgraduate student in Artificial Intelligence and Machine Learning at PUC Minas
-- Degree in Systems Analysis and Development (UNIVALI)
-- ISTQB CTFL Certified
-
----
-
-## Core Expertise
-
-### Quality Engineering
-
-- Functional Testing
-- Exploratory Testing
-- Regression Testing
-- Integration Testing
-- End-to-End Testing
-- API Testing
-- Root Cause Analysis
-- Test Planning
-- Test Design
-- Quality Metrics
-
-### AI Quality Engineering
-
-- LLM Evaluation
-- AI Reliability
-- Conversational AI Testing
-- Prompt Validation
-- Hallucination Detection
-- Context Validation
-- Guardrails Testing
-- AI Behavior Analysis
-- AI Monitoring
-- AI Risk Assessment
-
-### Test Automation
-
-- Playwright
-- Cypress
-- JavaScript
-- TypeScript
-- CI/CD Validation
-- Automated E2E Testing
-
-### API & Backend Validation
-
-- Postman
-- REST APIs
-- Swagger / OpenAPI
-- JSON
-- MySQL
-- SQL Validation
-
----
-
-## Tech Stack
+## 🌎 Connect With Me
 
 <p align="left">
+<a href="https://www.linkedin.com/in/nicolasbarth">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,html,css,mysql,git,github,vscode" />
+<a href="https://github.com/Nicolasbarth221">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://nicolasbarth.com.br">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
-### QA Tools
+---
 
-- Playwright
-- Cypress
-- Postman
-- DevTools
-- Swagger / OpenAPI
-- Jira
+## 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
-## Featured Areas
+## 🧪 QA & Test Automation
 
-### AI Quality Engineering
-
-Designing and validating reliable AI systems through:
-
-- LLM Evaluation Frameworks
-- Reliability Testing
-- Production Quality Validation
-- Guardrails Engineering
-- Risk Assessment
-- Monitoring Strategies
-
-### Software Quality Engineering
-
-Building quality through:
-
-- Automated Testing
-- API Validation
-- Quality Processes
-- Test Strategy
-- Defect Prevention
-- Continuous Improvement
+<p>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/API%20Testing-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/E2E%20Testing-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Test%20Automation-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Test%20Strategy-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quality%20Engineering-546E7A?style=for-the-badge"/>
+</p>
 
 ---
 
-## Current Focus
+## 🤖 AI Quality Engineering
+
+<p>
+<img src="https://img.shields.io/badge/AI%20Testing-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Evaluation-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG%20Validation-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hallucination%20Detection-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Guardrails-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reliability%20Engineering-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Observability-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Conversational%20AI-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Evaluation%20Frameworks-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Intent%20Classification-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Evaluation-FF7043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Safety-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Production%20AI-00897B?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚙️ Frameworks & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge"/>
+</p>
+
+---
+
+## ☁️ Cloud, DevOps & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+## 🧠 AI & LLM Platforms
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Meta%20WhatsApp%20API-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-43A047?style=for-the-badge"/>
+</p>
+
+---
+
+## 🎯 Areas of Expertise
 
 - AI Quality Engineering
+- Software Quality Assurance
+- Quality Engineering
 - LLM Evaluation
-- AI Reliability
+- AI Reliability Engineering
 - Test Automation
-- Conversational AI
-- Production AI Systems
-- Quality Engineering for Generative AI
+- End-to-End Testing
+- API Testing
+- Conversational AI Validation
+- Guardrails Engineering
+- AI Safety Validation
+- Hallucination Detection
+- Requirements Validation
+- Defect Analysis
+- Risk-Based Testing
+- Agile Testing
+- Test Design
+- Prompt Evaluation
+- Production AI Assessment
+- Quality Strategy
 
 ---
 
-## Certifications
+## 🏆 Certifications
 
-- ISTQB Certified Tester Foundation Level (CTFL)
-- Cypress Test Automation Training
-- Python Development Training
-- Front-End Development Fundamentals
-
-Upcoming:
-
-- ISTQB CT-AI
-- Advanced AI Quality Engineering Studies
+- ISTQB® Certified Tester Foundation Level (CTFL)
+- ISTQB® Certified Tester AI Testing (CT-AI) *(In Progress)*
+- ISTQB® Test Automation Engineer (CT-TAE) *(Planned)*
+- Cypress Test Automation
+- Cypress Simulator
 
 ---
 
-## Education
+## 🎓 Education
 
-### PUC Minas
-**Postgraduate Degree in Artificial Intelligence and Machine Learning**
-2026 – 2027
+### Postgraduate Degree — Artificial Intelligence & Machine Learning
+PUC Minas
 
-### UNIVALI
-**Systems Analysis and Development**
-2023 – 2026
+### Associate Degree — Systems Analysis and Development
+UNIVALI
 
 ---
 
-## Featured Projects
+## 🚀 Current Focus
 
-### AI Quality Engineering Lab
-
-End-to-end project demonstrating:
-
-- AI Evaluation
-- Root Cause Analysis
+- AI Quality Engineering
+- Production AI Reliability
+- LLM Evaluation Frameworks
+- AI Testing Methodologies
+- Guardrails & AI Safety
+- Playwright Automation
+- AI Observability
+- Conversational AI Systems
+- AI Quality Metrics
 - Reliability Engineering
-- Guardrails Testing
-- Production Quality Validation
-
-Technologies:
-
-- Python
-- FastAPI
-- OpenAI
-- JSON
-- Evaluation Frameworks
 
 ---
 
-## Connect With Me
-
-🌐 Portfolio: https://nicolasbarth.com.br
-
-💼 LinkedIn: https://linkedin.com/in/r-nicolas-barth
-
-📂 GitHub: https://github.com/nicolas-barth
-
-📧 Open to international QA Engineer and AI Quality Engineer opportunities.
-
----
-
-> Quality is not only about finding defects.  
-> It is about building reliable systems that users can trust.
+> Building reliable AI systems is not about making AI answer.  
+> It is about making AI answer correctly, consistently, and predictably at scale.
