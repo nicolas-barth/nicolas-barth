@@ -2,7 +2,7 @@
 
 ### AI Quality Engineer | QA Engineer | Test Automation | LLM Evaluation | Reliability Engineering
 
-I specialize in Software Quality Engineering and AI Quality Engineering, focusing on test automation, LLM evaluation, conversational AI validation, reliability testing, guardrails, observability, and production AI quality.
+I'm a Software Quality Engineer and AI Quality Engineer, focusing on test automation, , focusing on test automation, LLM evaluation, conversational AI validation, reliability testing, guardrails, observability, and production AI quality.
 
 Currently working on quality engineering for AI-powered customer support systems, helping build reliable, scalable, and production-ready AI products through evaluation frameworks, automation, monitoring, and quality strategy.
 
