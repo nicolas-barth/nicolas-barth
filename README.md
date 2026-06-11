@@ -141,11 +141,11 @@ Currently working on quality engineering for AI-powered customer support systems
 
 ## 🎓 Education
 
-### Postgraduate Degree — Artificial Intelligence & Machine Learning
-PUC Minas
+### Postgraduate Degree — Artificial Intelligence & Machine Learning | 2026-2027
+Pontifícia Universidade Católica de Minas Gerais (PUC Minas) 
 
-### Graduate — Systems Analysis and Development
-UNIVALI
+### Graduate — Systems Analysis and Development | 2023-2026
+Universidade do Vale de Itajaí (UNIVALI)
 
 ---
 
