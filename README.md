@@ -18,15 +18,6 @@ Currently working on quality engineering for AI-powered customer support systems
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nicolas-barth&theme=tokyonight&hide_border=true" />
-</p>
-
-
----
-
 ## 💻 Programming Languages
 
 <p>
